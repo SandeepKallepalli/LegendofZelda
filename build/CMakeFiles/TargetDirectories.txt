@@ -1,0 +1,3 @@
+/home/vinky/sandeep/sem4/Graphics/LegendofZelda/build/CMakeFiles/edit_cache.dir
+/home/vinky/sandeep/sem4/Graphics/LegendofZelda/build/CMakeFiles/rebuild_cache.dir
+/home/vinky/sandeep/sem4/Graphics/LegendofZelda/build/CMakeFiles/zelda.dir
