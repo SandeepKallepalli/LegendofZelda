@@ -32,7 +32,7 @@ There are certain gifts on the sea which when collected will increase the health
 * Initially, you are given with health of 50. If you collide with an enemy boat or rocks, you loose health. When the health reaches 0, the GAME IS OVER.
 
 ### Collision
-On collision with rocks and enemy boats, the health of the boat is decreased.
+On collision with rocks and enemy boats, the health of the boat will be decreased.
 
 ### Gifts
 There are barrels floating on the sea with gifts on them which when jumped over would increase the score of the boat.
@@ -44,7 +44,10 @@ There are some boosters floating on the sea which when collected would give boos
 Fireballs can be used to kill the monsters. They are realeased through cannons which is in front of the boat.
 
 ### Killing monsters
-On Killing the monsters through Cannons, the score of the boat is increased and also the monsters leaves a booster when it dies which can be collected to boost the speed of the boat.
+On Killing the monsters through Cannons, the score of the boat is increased and also the monsters leaves a booster(Coins) when it dies which can be collected to boost the speed of the boat.
 
 ### Boss Monster
 On Killing 4 Monsters, a Boss Monster would appear in the sea. To kill the boss monster, the boat should fire atleast 3 fireballs to kill the Boss Monster. When it dies, it leaves a booster and the score of the boat is increased.
+### Bonus
+* Sounds for various actions are added.
+* Created an Island where the man can move.
